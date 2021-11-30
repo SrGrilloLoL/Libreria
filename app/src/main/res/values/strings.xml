@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Libreria</string>
+    <string name="button_autor">Autores</string>
+    <string name="button_libros">Libros</string>
+    <string name="button_registrar">Registrar</string>
+    <string name="button_buscar_id">Buscar por Id</string>
+    <string name="button_buscar_isbn">Buscar por ISBN</string>
+    <string name="button_buscar_nombre">Buscar por nombre</string>
+    <string name="button_buscar_titulo">Buscar por titulo</string>
+    <string name="button_consulta_general">Consulta general</string>
+    <string name="button_modificar">Modificar</string>
+    <string name="button_eliminar">Eliminar</string>
+    <string name="edit_text_id_autor">Id Autor</string>
+    <string name="edit_text_nombre">Nombre</string>
+    <string name="edit_text_apellido">Apellido</string>
+    <string name="edit_text_isbn">ISBN</string>
+    <string name="edit_text_titulo">Titulo</string>
+    <string name="edit_text_precio">0.0</string>
+    <string name="text_view_consulta_general_autores">Consulta General Autores</string>
+    <string name="text_view_consulta_general_libros">Consulta General Libros</string>
+    <string name="text_view_selecciona_autor">Selecciona Autor</string>
+    <string name="text_view_selecciona_libro">Selecciona Libro</string>
+</resources>
